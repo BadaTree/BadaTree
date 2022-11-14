@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @BadaTree
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Bada Tree :)
+## _The Last Markdown Editor, Ever_
 
-<!---
-BadaTree/BadaTree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadaTree&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadaTree&layout=compact)](https://github.com/BadaTree/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadaTree&langs_count=8)](https://github.com/BadaTree/github-readme-stats)
