@@ -1,5 +1,5 @@
 # Bada Tree :)
-## _The Last Markdown Editor, Ever_
+## Don't wait. The time will never be just right
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Bada%20Tree&fontSize=90)
