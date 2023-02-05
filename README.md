@@ -13,4 +13,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadaTree&layout=compact)](https://github.com/BadaTree/github-readme-stats)
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
+
 
