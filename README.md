@@ -13,6 +13,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadaTree&layout=compact)](https://github.com/BadaTree/github-readme-stats)
 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zzzxxx3166">
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzzxxx3166)](https://solved.ac/zzzxxx3166/)
 
