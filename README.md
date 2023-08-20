@@ -25,10 +25,12 @@
 - [국민대 김남규 교수님](https://youtu.be/K4jiTvSIfB4)
 - [코딩애플](https://youtu.be/Y1FbowQRcmI)
 <br><br>
-> C ++  
-[The Cherno](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+> C ++
+
+- [The Cherno](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 <br><br>
 
-> Three.Js 
-[Three.Js] (https://www.youtube.com/watch?v=_PqQLvFa_Vw&list=PLkbzizJk4Ae9hHI_YUD3fRv8xLfS3jGEW&index=2)
+> Three.Js
+
+- [Three.Js] (https://www.youtube.com/watch?v=_PqQLvFa_Vw&list=PLkbzizJk4Ae9hHI_YUD3fRv8xLfS3jGEW&index=2)
 
