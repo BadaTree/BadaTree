@@ -15,3 +15,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzzxxx3166)](https://solved.ac/zzzxxx3166/)
 
+[C ++ ](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+
