@@ -31,7 +31,7 @@
 - [The Cherno](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
 ### *Three.Js :*
-- [Three.Js] (https://www.youtube.com/watch?v=_PqQLvFa_Vw&list=PLkbzizJk4Ae9hHI_YUD3fRv8xLfS3jGEW&index=2)
+- [Three.Js](https://www.youtube.com/watch?v=_PqQLvFa_Vw&list=PLkbzizJk4Ae9hHI_YUD3fRv8xLfS3jGEW&index=2)
 <br>
 
 # **Backend Lectures** 🍎
