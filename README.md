@@ -16,21 +16,30 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzzxxx3166)](https://solved.ac/zzzxxx3166/)
 
 
-# **Documentation**  🍏 🍎 🍋
+# **Language Lectures** 🍑 
 
-> DataBase 
+### *JavaScript :*
+- [JavaScript - Nomad Coders](https://bit.ly/3Kwvee8)
 
-- [쉬운 코드](https://youtu.be/aL0XXc1yGPs)
-- [이수안 컴퓨터 연구소](https://youtu.be/HmVAN1xq9KI)
-- [국민대 김남규 교수님](https://youtu.be/K4jiTvSIfB4)
-- [코딩애플](https://youtu.be/Y1FbowQRcmI)
-<br><br>
-> C ++
+### *Python :*
+- [Python - Nomad Coders](https://bit.ly/3AOxZUS)
 
+### *Python :*
+- [Python - Nomad Coders](https://bit.ly/3AOxZUS)
+<br>
+
+### *C ++ :*
 - [The Cherno](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
-<br><br>
 
-> Three.Js
-
+### *Three.Js :*
 - [Three.Js] (https://www.youtube.com/watch?v=_PqQLvFa_Vw&list=PLkbzizJk4Ae9hHI_YUD3fRv8xLfS3jGEW&index=2)
+<br>
 
+# **Backend Lectures** 🍎
+
+### *DataBase :*
+- [0. 쉬운코드 - DB 개념 및 실습](https://www.youtube.com/watch?v=aL0XXc1yGPs&list=PL4SJPVdQanQHJJaG4S_mMN4RK6RGEdJAn)
+- [1. 이수안 컴퓨터연구소 - DB 개요](https://www.youtube.com/watch?v=HmVAN1xq9KI&list=PL7ZVZgsnLwEEMDG02R-ThBc1cDTdT97z6)
+- [2. 김남규 교수 - DB 실무](https://www.youtube.com/watch?v=u0z_lNd3bjg&list=PL4SJPVdQanQHJJaG4S_mMN4RK6RGEdJAn&index=4)
+- [3. 시니어코딩 - DB 설계 및 실무](https://www.youtube.com/watch?v=GroeyzBNhfU&list=PL4SJPVdQanQHJJaG4S_mMN4RK6RGEdJAn&index=13)
+<br><br>
