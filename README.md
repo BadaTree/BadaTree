@@ -42,3 +42,9 @@
 - [2. 김남규 교수 - DB 실무](https://www.youtube.com/watch?v=u0z_lNd3bjg&list=PL4SJPVdQanQHJJaG4S_mMN4RK6RGEdJAn&index=4)
 - [3. 시니어코딩 - DB 설계 및 실무](https://www.youtube.com/watch?v=GroeyzBNhfU&list=PL4SJPVdQanQHJJaG4S_mMN4RK6RGEdJAn&index=13)
 <br><br>
+
+# **Tip** 🍎
+
+### *Vscode :*
+- [vscode Extension](https://www.youtube.com/watch?v=XMfyfNZooi4)
+- [단축키](https://www.youtube.com/watch?v=Wn7j5dfbJF4&t=167s)
